@@ -1,8 +1,12 @@
-package io.shruubi.leetcode.removeelement;
+package io.shruubi.leetcode.array.removeelement;
 
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * 27. Remove Element
+ * <a href="https://leetcode.com/problems/remove-element/">Remove Element</a>
+ */
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         AtomicInteger nonMatchCtr = new AtomicInteger();

@@ -1,4 +1,4 @@
-package io.shruubi.leetcode.mergesortedarrays;
+package io.shruubi.leetcode.array.mergesortedarrays;
 
 import io.shruubi.leetcode.AbstractTest;
 import org.junit.Before;

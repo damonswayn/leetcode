@@ -1,5 +1,9 @@
-package io.shruubi.leetcode.mergesortedarrays;
+package io.shruubi.leetcode.array.mergesortedarrays;
 
+/**
+ * 88. Merge Sorted Array
+ * <a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a>
+ */
 public class MergeSortedArrays {
 
     public void merge(int[] arrOne, int arrOneLength, int[] arrTwo, int arrTwoLength) {

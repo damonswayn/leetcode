@@ -1,4 +1,4 @@
-package io.shruubi.leetcode.removeelement;
+package io.shruubi.leetcode.array.removeelement;
 
 import io.shruubi.leetcode.AbstractTest;
 import org.junit.Before;
