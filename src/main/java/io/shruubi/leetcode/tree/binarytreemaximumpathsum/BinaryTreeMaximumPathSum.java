@@ -1,4 +1,4 @@
-package io.shruubi.leetcode.tree.BinaryTreeMaximumPathSum;
+package io.shruubi.leetcode.tree.binarytreemaximumpathsum;
 
 /**
  * 124. Binary Tree Maximum Path Sum

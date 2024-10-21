@@ -1,4 +1,4 @@
-package io.shruubi.leetcode.tree.BinaryTreeMaximumPathSum;
+package io.shruubi.leetcode.tree.binarytreemaximumpathsum;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package io.shruubi.leetcode.stack.ValidParentheses;
+package io.shruubi.leetcode.stack.validparentheses;
 
 import java.util.Stack;
 
