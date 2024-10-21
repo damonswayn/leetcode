@@ -1,5 +1,7 @@
 # Leetcode
 
+![Builds Badge](https://github.com/damonswayn/leetcode/actions/workflows/github-actions.yml/badge.svg)
+
 Doing some leetcode problems in Java to keep my Java
 skills sharp. There is no particular order to the problems
 I am solving, just picking ones that I find interesting.
